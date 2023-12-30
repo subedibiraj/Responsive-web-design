@@ -1,0 +1,27 @@
+*{
+    background-color: white;
+  }
+   a{
+     color : purple;
+   }
+  
+   a:hover{
+     background-color: green;
+     color: blue;
+   }
+  
+   header{
+     font-size : 20px;
+   }
+  
+   main{
+     margin-left: 250px;
+     color : grey;
+   }
+  
+  @media (min-width: 480px) {
+    #navbar {
+      position: fixed;
+    }
+  }
+  
